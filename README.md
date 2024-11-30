@@ -8,6 +8,7 @@ This document provides an introduction to **Pandas** and **NumPy**, two essentia
 
 ### Pandas
 
+
 Pandas is a powerful Python library primarily used for data manipulation and analysis. It provides data structures and functions needed to efficiently work with structured data. Its main data structure, the **DataFrame**, allows users to store and manipulate tabular data (similar to Excel or SQL tables).
 
 ### NumPy
